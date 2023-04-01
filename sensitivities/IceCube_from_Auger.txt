@@ -1,0 +1,17 @@
+# Source: IceCube from Auger 9 years paper
+# Data type: Upper limit
+# Energy bins per decade: 1
+# Column values:
+# Energy [eV]
+# Flux [GeV cm^-2 s^-1 sr^-1]
+# Flux band minimum
+# Flux band maximum
+
+1.808e+16  1.197e-8 0.0 0.0 
+5.401e+16  1.413e-8 0.0 0.0 
+1.614e+17  1.343e-8 0.0 0.0 
+5.638e+17  1.280e-8 0.0 0.0 
+1.685e+18  1.916e-8 0.0 0.0 
+5.443e+18  3.023e-8 0.0 0.0 
+1.391e+19  5.212e-8 0.0 0.0 
+5.681e+19  1.352e-7 0.0 0.0 
